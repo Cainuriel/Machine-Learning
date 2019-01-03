@@ -1,3 +1,6 @@
+""" clase de David Martin
+https://www.youtube.com/watch?v=eZpSGS7vF5Y&t=1s """
+
 from random import choice
 from sklearn.neural_network import MLPClassifier 
 import pickle
